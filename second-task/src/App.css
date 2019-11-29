@@ -1,0 +1,39 @@
+.main {
+    padding-top: 30px;
+    text-align: center;
+}
+.field {
+    padding: 0 10px;
+    height: 25px;
+    border: 2px solid;
+}
+.item-num {
+    margin: 0 10px;
+    width: 60px;
+}
+.btn {
+    margin-left: 30px;
+    cursor: pointer;
+    border: 2px solid;
+    outline: none;
+    background-color: transparent;
+    padding: 5px 15px;
+    box-shadow: 3px 1px 1px black
+}
+.block {
+    border: 2px solid;
+    width: 435px;
+    margin: 10px auto 0;
+}
+.block-txt {
+    display: inline-block;
+}
+.block-cost {
+    margin: 0 2% 0 36%;
+}
+.block-btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 20px;
+}
